@@ -18,4 +18,18 @@
 대상 영상 댓글을 수집한 후, 명사 위주로 언어 분석을 수행해 '비건'과 '논비건' 입장에서 각각 상대 빈도가 높은 단어를 알아본다. 상대빈도가 높은 키워드는 비건과 논비건이 각각 중요하게 생각하는 가치를 의미한다.
 ***
 **5. 데이터 스키마**  
-<img width="492" alt="데이터 스키마" src="https://user-images.githubusercontent.com/74245916/102720413-8a733380-4337-11eb-9ba6-d02fd865d69e.png">
++ 영상제목  
++ 링크  
++ 분류  
++ 링크
+<img width="492" alt="데이터 스키마" src="https://user-images.githubusercontent.com/74245916/102720413-8a733380-4337-11eb-9ba6-d02fd865d69e.png">  
+***
+**6. 해석**
+**+ 워드클라우드 분석**  
+<img width="477" alt="O 비건_워드클라우드_꽉찬버전" src="https://user-images.githubusercontent.com/74245916/102720566-80056980-4338-11eb-9ed6-a4b951fa514b.png">
+(비건)  
+  
+<img width="527" alt="O 논비건_워드클라우드_두번째" src="https://user-images.githubusercontent.com/74245916/102720572-8dbaef00-4338-11eb-83c7-0396c165de8a.png">
+(논비건)  
+  
+**+ 피봇테이블 분석**  

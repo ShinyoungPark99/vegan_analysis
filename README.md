@@ -23,6 +23,7 @@
 + 분류  
 + 링크
 <img width="492" alt="데이터 스키마" src="https://user-images.githubusercontent.com/74245916/102720413-8a733380-4337-11eb-9ba6-d02fd865d69e.png">  
+
 ***
 **6. 해석**  
 + 워드클라우드 분석  

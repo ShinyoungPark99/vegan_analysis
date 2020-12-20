@@ -24,12 +24,13 @@
 + 링크
 <img width="492" alt="데이터 스키마" src="https://user-images.githubusercontent.com/74245916/102720413-8a733380-4337-11eb-9ba6-d02fd865d69e.png">  
 ***
-**6. 해석**
-**+ 워드클라우드 분석**  
-<img width="477" alt="O 비건_워드클라우드_꽉찬버전" src="https://user-images.githubusercontent.com/74245916/102720566-80056980-4338-11eb-9ed6-a4b951fa514b.png">
-(비건)  
+**6. 해석**  
++ 워드클라우드 분석  
+<비건>  
+<img width="477" alt="O 비건_워드클라우드_꽉찬버전" src="https://user-images.githubusercontent.com/74245916/102720650-fb671b00-4338-11eb-8946-f5410504a0b3.png">
   
-<img width="527" alt="O 논비건_워드클라우드_두번째" src="https://user-images.githubusercontent.com/74245916/102720572-8dbaef00-4338-11eb-83c7-0396c165de8a.png">
-(논비건)  
+  <논비건>  
+  <img width="527" alt="O 논비건_워드클라우드_두번째" src="https://user-images.githubusercontent.com/74245916/102720660-07eb7380-4339-11eb-8574-95f145944c48.png">
   
-**+ 피봇테이블 분석**  
++ 피봇테이블 분석  
+**1) 공통적으로 많이 나온 단어**  
